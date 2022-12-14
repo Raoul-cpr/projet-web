@@ -29,7 +29,7 @@ a:hover{
 
 }
 a:visited{
-    color: rgb(238, 255, 0);
+    color: rgb(136, 145, 15);
 }
 
 p {
@@ -123,6 +123,7 @@ p {
 }
 
 .message2{
+    margin-left: auto;
     background-color: rgb(21, 153, 19);
     padding:10px ;
     color: white;
